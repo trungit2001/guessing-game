@@ -10,12 +10,20 @@ My first project was written in the Rust programming language
 
 ## Installation
 
-Instructions on how to install and set up your project.
+To run this project, Rust must be installed first (follow [Installation Rust](https://www.rust-lang.org/tools/install)). Then, run code below to `build` and `run`
+```bash
+$ cargo build
+$ cargo run
+```
+Or just download the compiled program from here [guessing-game-v0.1.0-apha](https://github.com/trungit2001/guessing-game/releases/) and run it
+```bash
+$ ./guessing-game-v0.1.0-apha
+```
+Have fun 😊
 
 ## Usage
 
-Instructions on how to use your project and any relevant examples.
-
+This is an easy game, you just need to guess a number and see the results from the program. If the program prompts `Too small!`, you should bet on a higher number, whereas when the program prompts `Too big!`, you should guess a smaller number. The program will prompt `You win!` when you guess the secret number correctly 🥳
 
 ## License
 
