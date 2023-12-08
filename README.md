@@ -17,7 +17,7 @@ $ cargo run
 ```
 Or just download the compiled program from here [guessing-game-v0.1.0-apha](https://github.com/trungit2001/guessing-game/releases#:~:text=game%20release%20version-,v0.1.0%2Dalpha,-Assets) and run it
 ```bash
-$ ./guessing-game-v0.1.0-apha
+$ ./guessing-game-v0.1.0-alpha
 ```
 Have fun 😊
 
