@@ -1,6 +1,6 @@
-# Project Name
+# Guessing game
 
-Guessing game - My first project was written in the Rust programming language
+My first project was written in the Rust programming language
 
 ## Table of Contents
 
